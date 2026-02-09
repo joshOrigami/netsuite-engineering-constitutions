@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cover-image.png" alt="NetSuite Engineering Constitutions" width="500" hight="500">
+</p>
+
 # netsuite-engineering-constitutions
 Non-negotiable engineering constitutions for NetSuite systems, grounded in Specification-Driven Development (SDD).
 
